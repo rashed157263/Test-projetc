@@ -1,0 +1,115 @@
+@media (max-width:1520px){
+    .fixed-width{
+       margin : auto;  
+       max-width: 100%;
+       padding-left: 20PX;
+       padding-right: 20PX;
+       box-sizing: border-box;
+    }
+}
+
+@media (max-width:610px){
+    .header-right{
+        width: 100%;
+        text-align: center;
+    }
+    .header-left{
+        width: 100%;
+        text-align: center;
+    }
+    .header-right ul{
+        text-align:center;
+    }
+    .banner {
+        padding: 90px 0;
+    }
+    .service-item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .blog-left-content {
+        width: 100%;
+    }
+    .blog-right-notifacation {
+        width: 100%;
+    }
+    .footer-left {
+        width: 100%;
+        text-align: center;
+    }
+    .footer-right {
+        width: 100%;
+        text-align: center;
+    }
+    .social-menu {
+        text-align: center;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:500px){
+    .header-right ul li a {
+        padding: 0 6px;
+        border: none;
+        line-height: 30px;
+    }
+    .service-item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .blog-left-content {
+        width: 100%;
+    }
+    .blog-right-notifacation {
+        width: 100%;
+    }
+    .footer-left {
+        width: 100%;
+        text-align: center;
+    }
+    .footer-right {
+        width: 100%;
+        text-align: center;
+    }
+    .social-menu {
+        text-align: center;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:342px){
+    .banner {
+        padding: 70px 0;
+    }
+    .banner-caption h2 {
+        padding: 10px 30px;
+        font-size: 17px;
+    }
+    .banner-caption h1 {
+        max-width: 180px;
+        font-size: 17px;
+        padding: 10px 40px;
+    }
+    .service-item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .blog-left-content {
+        width: 100%;
+    }
+    .blog-right-notifacation {
+        width: 100%;
+    }
+    .footer-left {
+        width: 100%;
+        text-align: center;
+    }
+    .footer-right {
+        width: 100%;
+        text-align: center;
+    }
+    .social-menu {
+        text-align: center;
+        margin-top: 20px;
+    }
+}
